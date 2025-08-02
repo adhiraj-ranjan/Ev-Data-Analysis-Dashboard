@@ -2,7 +2,7 @@
 
 [![Tableau Public](https://img.shields.io/badge/Built%20with-Tableau-blue?style=for-the-badge&logo=tableau)](https://www.tableau.com/)
 [![View Dashboard](https://img.shields.io/badge/View%20Live-Dashboard-brightgreen?style=for-the-badge&logo=tableau)](https://public.tableau.com/app/profile/adhiraj.ranjan/viz/Book1_17541096998320/Dashboard1)
-[![GitHub Repo Size](https://img.shields.io/github/repo-size/adhiraj-ranjan/ev-data-analysis?style=for-the-badge&color=orange)](#)
+[![GitHub Repo Size](https://img.shields.io/github/repo-size/adhiraj-ranjan/Ev-Data-Analysis-Dashboard?style=for-the-badge&color=orange)](#)
 
 ---
 
